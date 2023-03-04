@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bhargavab720@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1A5vuzScMhDJydwN62ziZUBOoybOOKc-5)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Esav5OHhkhGasg9YpM1oMg8N0U_4dxBQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
