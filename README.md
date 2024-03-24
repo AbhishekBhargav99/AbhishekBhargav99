@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **bhargavab720@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Esav5OHhkhGasg9YpM1oMg8N0U_4dxBQ/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhargavab_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhargavab_98" height="30" width="40" /></a>
