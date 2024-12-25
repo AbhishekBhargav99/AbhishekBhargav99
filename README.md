@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer with expertise in bu
 
 
 ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
-![Angular](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
+![Angular](https://img.shields.io/static/v1?logo=angular&label=%20&message=Angular&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=%20&message=Redux&style=for-the-badge&logoColor=%23764ABC&labelColor=black&color=black)
 
 <!-- ![Express](https://img.shields.io/static/v1?logo=c&label=%20&message=Cpp&style=for-the-badge&logoColor=%2300599C&labelColor=black&color=black) -->
