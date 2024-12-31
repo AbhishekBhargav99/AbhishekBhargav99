@@ -48,17 +48,10 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer with expertise in bu
 
 </div>
 
-<div>
-  [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBhargav99&theme=react&layout=compact)](https://github.com/AbhishekBhargav99)
-  [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekBhargav99&theme=dark&show_icons=true)](https://github.com/AbhishekBhargav99)
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekBhargav99" alt="P visits" /> </p>
-</div>
-
 <hr>
 
-<div align="center">
-<!--
- ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbhishekBhargav99&theme=react)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBhargav99&hide=java,c,spring,python,makefile,qmake&layout=compact&theme=react) -->
-
+<div>
+<!--  ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbhishekBhargav99&theme=react)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBhargav99&hide=java,c,spring,python,makefile,qmake&layout=compact&theme=react)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekBhargav99" alt="P visits" /> </p> -->
 </div>
